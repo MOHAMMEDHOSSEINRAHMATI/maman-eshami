@@ -1,10 +1,34 @@
-\nthis a project dictatorship😁 for eshami momy
-\nversion 1
-\npip install colorama
+this a project dictatorship😁 for eshami momy
 
-\nLinux/Termux:
-\npkg install python3
-\ngit clone https://github.com/MOHAMMEDHOSSEINRAHMATI/maman-eshami/
-\ncd maman-ehshami
-\npython source.py
-\ngood bye!
+
+
+
+version 1
+
+
+pip install colorama
+
+Linux/Termux:
+
+
+
+pkg install python3
+
+
+
+git clone https://github.com/MOHAMMEDHOSSEINRAHMATI/maman-eshami/
+
+
+
+
+
+
+cd maman-ehshami
+
+
+
+python source.py
+
+
+
+good bye!
