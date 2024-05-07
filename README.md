@@ -1,6 +1,6 @@
 this a project dictatorship😁 for eshami momy
 version 1
-
+pip install colorama
 
 Linux/Termux:
 pkg install python3
